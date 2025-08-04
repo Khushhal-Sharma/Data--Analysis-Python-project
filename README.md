@@ -49,7 +49,7 @@ The dataset consists of **4–5 different tables** (Customers, Orders, Order Det
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-git clone https://github.com/KhushhalSharma/Data-Analysis-Python-project.git 
+git clone https://github.com/KhushhalSharma/Data--Analysis-Python-project.git 
 - Downloads/Data-Analysis-Python-project
 - pip install pandas matplotlib seaborn jupyter
 - jupyter notebook
