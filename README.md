@@ -22,12 +22,11 @@ The dataset consists of **4–5 different tables** (Customers, Orders, Order Det
 ---
 
 ## 🔍 Insights Generated
-1. **Top 5 Customers** → Customers generating the highest revenue.  
-2. **Most Popular Products** → Products with the highest order frequency.  
-3. **Monthly Sales Trend** → Month-wise sales performance.  
-4. **Average Order Value** → Average revenue per order.  
-5. **Customer Segmentation** → Grouping customers based on spending patterns.
-
+1. Top Selling Product By Quantity
+2. Top 10 Order By Total Amount
+3. Top 10 customers By Payment
+4. Revenue By Region
+5. Revenue By Category
 ---
 
 ## 📊 Visualizations Used
@@ -49,7 +48,6 @@ The dataset consists of **4–5 different tables** (Customers, Orders, Order Det
 
 ## 🚀 How to Run
 1. Clone the repository:
-```bash
 git clone https://github.com/YourUsername/Ecommerce-Data-Analysis.git
 - Downloads/Ecommerce-Data-Analysis
 - pip install pandas matplotlib seaborn jupyter
